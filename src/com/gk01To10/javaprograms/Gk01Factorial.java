@@ -1,4 +1,4 @@
-package com.gk10.javaprograms;
+package com.gk01To10.javaprograms;
 
 import java.util.Scanner;
 
