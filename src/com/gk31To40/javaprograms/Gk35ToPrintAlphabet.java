@@ -1,6 +1,6 @@
 package com.gk31To40.javaprograms;
 
-public class Gk35ToPrintAlphaber {
+public class Gk35ToPrintAlphabet {
 
 	public static void main(String[] args) {
 		System.out.println("The Alphabets are: ");
